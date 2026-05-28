@@ -3,7 +3,7 @@
 A modern full-stack web application developed to digitally manage toll road operations through an interactive dashboard, secure authentication system, vehicle management, transaction monitoring, and analytics visualization.
 
 # 🔐 Login Page
-![TollSync Login Page] (./public/login-page.png)
+![TollSync Login Page](./client/public/login-page.jpg)
 
 ---
 
